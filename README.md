@@ -19,6 +19,6 @@ The following libraries/frameworks are required:
 2. `TensorFlow`
 3. `Keres`
 
-# Running the Application
+# Running the Application: Model Verification Check
 Once you have a your .h5 file,the python script can be used to verify that the model builds sucessfully. 
 
