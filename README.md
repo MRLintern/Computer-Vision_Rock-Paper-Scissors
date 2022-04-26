@@ -10,7 +10,7 @@ There are three required steps:
 
 1. Gather and group your data into classes or categories, that you want the computer to learn. These are images or audio signals.
 2. Train your model, then instantly test it out to see whether it can correctly classify new examples.
-3. Download the model. This will be a .h5 file which will need extracting.
+3. Download the model. This will be a `.h5` file which will need extracting.
 
 # Dependencies
 The following libraries/frameworks are required:
@@ -20,8 +20,8 @@ The following libraries/frameworks are required:
 3. `Keres`
 
 # Model Verification Check
-Once you have a your .h5 file,`modelRunCheck.py` can be used to verify that the model builds sucessfully. 
+Once you have a your`.h5` file,`modelRunCheck.py` can be used to verify that the model builds sucessfully. 
 
 # Rock Paper Scissors Base Code
-Run `RPS_Base_Code.py` to play against the computer; proof of concept
+Run `RPS_Base_Code.py` to play against the computer; proof of concept.
 
