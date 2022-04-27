@@ -13,6 +13,8 @@ from enum import IntEnum
 
 class Action(IntEnum):
 
+	#actions used in R P S with associated values
+	
 	Rock = 0
 	Paper = 1
 	Scissors = 2
@@ -27,8 +29,9 @@ def human_choice():
 	e.g. action.name = Rock and Rock has a value of 0
 	
 	"""
-	
+	#list of actions available 
 	available_choices = [f"{action.name}[{action.value}]" for action in Action]
+	#combine action with its associated value
 	choices_str = ", ".join(available_choices)
 	selection = int(input(f"Enter a choice ({choices_str}): "))
 	action = Action(selection)
@@ -38,7 +41,7 @@ def human_choice():
 def computer_choice():
 
 	"""
-	this performs in a similar way to user_choice() 
+	this performs in a similar way to human_choice() 
 	the computer will generate a choice at random
 	
 	"""
@@ -70,8 +73,7 @@ def who_wins(human_action, computer_action):
 while True:
 
 	#pick up errors/problems	
-	try:
-	
+	try:	
 		human_action = human_choice()
 	
 	except ValueError as e:
@@ -80,7 +82,8 @@ while True:
 		print(f"Invalid selection. Enter a value in range {range_str}")
 		
 		continue
-		
+	
+	#if all went well let the computer make its choice
 	computer_action = computer_choice()
 	
 	#see who wins the game
