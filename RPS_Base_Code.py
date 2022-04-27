@@ -48,6 +48,7 @@ def computer_choice():
 	
 	selection = random.randint(0, len(Action) - 1)
 	action = Action(selection)
+	return action
 	
 #function to determine whether the human or computer wins
 def who_wins(human_action, computer_action):
