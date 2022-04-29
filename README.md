@@ -1,8 +1,16 @@
 # Computer-Vision_Rock-Paper-Scissors
 Play Rock Paper Scissors with Yourself with the help of Neural Networks.
 
-# Operating System
-Ubuntu 20.04 running Python 3.8.
+# Requirements and Dependencies
+`Ubuntu 20.04` OS.
+`Python 3.8`.
+
+The following libraries/frameworks are required:
+
+1. `OpenCV`
+2. `TensorFlow`
+3. `Keres`
+
 
 # Teachable Machine
 This application makes use of [Teachable Machine](https://teachablemachine.withgoogle.com/), an easy way to make machine learning models.
@@ -12,12 +20,6 @@ There are three required steps:
 2. Train your model, then instantly test it out to see whether it can correctly classify new examples.
 3. Download the model. This will be a `.h5` file which will need extracting.
 
-# Dependencies
-The following libraries/frameworks are required:
-
-1. `OpenCV`
-2. `TensorFlow`
-3. `Keres`
 
 # Model Verification Check
 Once you have a your`.h5` file,`modelRunCheck.py` can be used to verify that the model builds sucessfully. 
