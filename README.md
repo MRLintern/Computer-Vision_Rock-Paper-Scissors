@@ -22,9 +22,11 @@ There are three required steps:
 
 
 # Model Verification Check
-Once you have a your`.h5` file,`modelRunCheck.py` can be used to verify that the model loads sucessfully. 
+Once you have `"YOUR-MODEL"h5` file,`modelRunCheck.py` can be used to verify that the model loads sucessfully. 
 
-# Rock Paper Scissors Base Code
-Run `RPS_Base_Code.py` to play against the computer; proof of concept.
+# Classic Rock Paper Scissors Base Code
+Run `RPS_Base_Code.py` to play against the computer.
 This is the "classic" version of the game. 
+
+`$ python3 RPS_Base_Code.py`
 
