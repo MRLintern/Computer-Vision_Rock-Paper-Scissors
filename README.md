@@ -2,8 +2,7 @@
 Play Rock Paper Scissors with Yourself with the help of Neural Networks.
 
 # Requirements and Dependencies
-`Ubuntu 20.04` OS.
-`Python 3.8`.
+Operating System:`Ubuntu 20.04`, running `Python 3.8`.
 
 The following libraries/frameworks are required:
 
