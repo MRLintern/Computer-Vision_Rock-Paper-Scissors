@@ -1,6 +1,5 @@
-#base code for R-P-S game
-#this will be developed further
-#for ML cases
+#this is the classic non-ML version
+#of rock paper scissors
 
 import random 
 #make use of enum class. 
