@@ -27,8 +27,8 @@ Once you have `"YOUR-MODEL.h5"`,`modelRunCheck.py` can be used to verify that th
 `$ python3 modelRunCheck.py`
 
 # Classic Rock Paper Scissors Base Code
-Run `RPS_Base_Code.py` to play against the computer.
+Run `RPS_Classic.py` to play against the computer.
 This is the "classic" version of the game. 
 
-`$ python3 RPS_Base_Code.py`
+`$ python3 RPS_Classic.py`
 
