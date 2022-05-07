@@ -10,7 +10,7 @@ The following libraries/frameworks are required:
 2. `TensorFlow`
 3. `Keres`
 
-`OpenCV` is library of programming functions mainly aimed at real-time computer vision.
+`OpenCV` is a library of programming functions mainly aimed at real-time computer vision.
 `TensorFlow` is a library focused on training and inference of deep neural networks.
 `Keres` is the API for `TensorFlow`.
 
