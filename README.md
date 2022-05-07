@@ -1,5 +1,5 @@
 # Computer-Vision_Rock-Paper-Scissors
-Play Rock Paper Scissors with Yourself with the help of Neural Networks.
+Play Rock Paper Scissors with the help of Deep Learning
 
 # Requirements and Dependencies
 Operating System:`Ubuntu 20.04`, running `Python 3.8`.
@@ -10,6 +10,9 @@ The following libraries/frameworks are required:
 2. `TensorFlow`
 3. `Keres`
 
+`OpenCV` is library of programming functions mainly aimed at real-time computer vision.
+`TensorFlow` is a library focused on training and inference of deep neural networks.
+`Keres` is the API for `TensorFlow`.
 
 # Teachable Machine
 This application makes use of [Teachable Machine](https://teachablemachine.withgoogle.com/), an easy way to make machine learning models.
