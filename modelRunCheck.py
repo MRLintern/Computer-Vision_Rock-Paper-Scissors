@@ -1,3 +1,12 @@
+"""
+Program checks that the .h5 file loads with no problems.
+This program also acts as the template for the Deep Learning
+of RPS
+
+"""
+
+
+
 import cv2
 from keras.models import load_model
 import numpy as np
