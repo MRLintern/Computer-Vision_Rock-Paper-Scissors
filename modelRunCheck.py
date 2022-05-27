@@ -1,7 +1,7 @@
 """
 Program checks that the .h5 file loads with no problems.
 This program also acts as the template for the Deep Learning
-of RPS
+version of RPS.
 
 """
 
