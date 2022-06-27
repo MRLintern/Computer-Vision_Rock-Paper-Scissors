@@ -1,5 +1,5 @@
 # Computer-Vision_Rock-Paper-Scissors
-Play Rock Paper Scissors with the help of Deep Learning
+Play Rock Paper Scissors with OpenCV and Machine Learning
 
 # Requirements and Dependencies
 Operating System:`Ubuntu 20.04`, running `Python 3.8`.
