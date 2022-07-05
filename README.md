@@ -1,6 +1,6 @@
 # Computer-Vision_Rock-Paper-Scissors
 
-NOTE: This work is in project; ML hasn't been incorporated yet.
+NOTE: This work is in progress; ML hasn't been incorporated yet.
 
 Play Rock Paper Scissors against the CPU with OpenCV and Machine Learning.
 
