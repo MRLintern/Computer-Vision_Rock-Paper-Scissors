@@ -1,5 +1,8 @@
 # Computer-Vision_Rock-Paper-Scissors
-Play Rock Paper Scissors against the CPU with OpenCV and Machine Learning
+
+NOTE: This work is in project; ML hasn't been incorporated yet.
+
+Play Rock Paper Scissors against the CPU with OpenCV and Machine Learning.
 
 # Requirements and Dependencies
 Operating System:`Ubuntu 20.04`, running `Python 3.8`.
